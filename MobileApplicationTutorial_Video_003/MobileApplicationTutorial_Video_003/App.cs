@@ -23,7 +23,7 @@ namespace MobileApplicationTutorial_Video_003
                             HorizontalTextAlignment = TextAlignment.Center,
                             Text = "Welcome to Xamarin Forms!"
                         } 
-                    }
+                    } 
                 }
             };
 
